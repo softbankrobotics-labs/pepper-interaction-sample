@@ -1,0 +1,16 @@
+topic: ~engaged()
+# Defining extra concepts out of words or group of words
+concept:(hello) [hello hi hey "good morning" greetings]
+
+# Replying to speech
+u:(~hello) ~hello
+
+u:(how are you {doing today} ?) I'm fine thanks
+
+u:(what's {that} on [your the] tablet) Oh, that is my state machine.
+
+u:(what are you doing?) Not much
+
+u:(what can you do) I could do quite a bit, but right now I can only answer a few questions
+
+
