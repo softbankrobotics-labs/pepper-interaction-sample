@@ -6,4 +6,5 @@ import com.softbankrobotics.interactionsample.statemachine.InteractionStateMachi
  * An interface for those who want to be notified when the app's state machine is ready.
  */
 public interface StateMachineWatcher {
-g}
+    void onStateMachineReady(InteractionStateMachine stateMachine);
+}
